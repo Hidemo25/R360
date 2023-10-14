@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Retain360 - Customer Retention</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #35495e;
+            color: #fff;
+            text-align: center;
+            padding: 20px;
+        }
+        h1 {
+            font-size: 36px;
+        }
+        .container {
+            max-width: 960px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #fff;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .description {
+            font-size: 18px;
+            line-height: 1.5;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Retain360 - Customer Retention</h1>
+    </header>
+    <div class="container">
+        <h2>About</h2>
+        <p class="description">
+            Retain360 empowers B2B and B2C companies with data-driven insights and predictive analytics to help CSMs protect their customers and minimize churn.
+        </p>
+        <p class="description">
+            Retain360 tracks your entire customer lifecycle and helps you minimize churn with 92% to 96% predictive accuracy.
+        </p>
+        <p class="description">
+            Enhance customer retention by providing actionable insights.
+        </p>
+        <p class="description">
+            Discover the secret to customer retention! With our incredible data analytics tool, you'll have easy access to all your customer information. Identify those key factors that lead to attrition in no time! Keep track of every step in their journey and gain full visibility into adoption, engagement, and renewals. Say goodbye to guessing games and hello to smart strategies for growth!
+        </p>
+        <h2>How it works</h2>
+        <p class="description">
+            Retain 360's software meticulously analyzes your valuable data, exploring countless factors to unveil the specific combination of metrics that cause churn. With the power of artificial intelligence at play, it accurately forecasts which customers are expected to leave. Say hello to effective retention strategies and watch your business flourish!
+        </p>
+        <p class="description">
+            Effortlessly streamline daily workflow with Retain360. Say goodbye to system juggling - our platform seamlessly integrates with CRMs, customer support, product, billing, and email systems. Maximize efficiency and boost productivity with ease.
+        </p>
+    </div>
+</body>
+</html>
